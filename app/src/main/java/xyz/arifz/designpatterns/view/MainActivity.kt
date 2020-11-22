@@ -1,8 +1,9 @@
-package xyz.arifz.designpatterns
+package xyz.arifz.designpatterns.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import dagger.hilt.android.AndroidEntryPoint
+import xyz.arifz.designpatterns.R
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
